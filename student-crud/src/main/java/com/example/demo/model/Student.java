@@ -1,4 +1,6 @@
 package com.example.demo.model;
+// Abd Al-Rahman Moen Hemaid
+// 120240672
 import jakarta.persistence.*;
 @Entity
 @Table(name = "student")
